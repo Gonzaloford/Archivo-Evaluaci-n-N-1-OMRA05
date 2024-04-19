@@ -1,0 +1,8 @@
+PedirNombre = input("Cual es su Nombre?: ")
+PedirApellido = input("Cual es su Apellido?: ")
+PedirSeccion = input("Cual es su Codigo de Sección?:")
+PedirSede = input("Cual es su Sede?: ")
+print("===============================")
+print("Buenos dias Alumno" +" "+ PedirNombre + " " + PedirApellido)
+print("Usted se encuentra en " +" "+ PedirSede +" "+ "de la Sección" +" "+ PedirSeccion)
+print("===============================")
